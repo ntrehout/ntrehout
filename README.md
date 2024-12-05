@@ -49,5 +49,3 @@ Ready to embark on a journey of innovation and success? Let's collaborate and tu
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrehout&show_icons=true&locale=en&layout=compact" alt="ntrehout" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntrehout&show_icons=true&locale=en" alt="ntrehout" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntrehout&" alt="ntrehout" /></p>
