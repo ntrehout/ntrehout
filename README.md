@@ -1,23 +1,7 @@
 <h1 align="center">Hi 👋, I'm TREHOUT Nathan</h1>
-<h3 align="center">A passionate frontend developer from France, based in Indonesia</h3>
+<h3 align="center">🚀 Empower Your Projects with a Full Stack Maestro!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntrehout&label=Profile%20views&color=0e75b6&style=flat" alt="ntrehout" /> </p>
-
-- 🔭 I’m currently working on [OTWLD](https://otwld.com/)
-
-- 👯 I’m looking to collaborate on **any freelance project**
-
-- 👨‍💻 All of my projects are available at [https://otwld.com/members/ntrehout](https://otwld.com/members/ntrehout)
-
-- 📝 I regularly write articles on [https://blog.otwld.com/blog/author/ntrehout/](https://blog.otwld.com/blog/author/ntrehout/)
-
-- 📫 How to reach me **ntrehout@otwld.com**
-
-- 📄 Know about my experiences [https://otwld.com/members/ntrehout](https://otwld.com/members/ntrehout)
-
-
-
-🚀 Empower Your Projects with a Full Stack Maestro!
 
 Bonjour! I'm a Full Stack developer working remotely from Indonesia, fueled by nearly 5 years of hands-on experience in the dynamic realm of web and mobile development.
 
@@ -38,6 +22,20 @@ References:
 🌟 Testimonials Speak Louder: Don't just take my word for it! Hear from Vincent Pinson, Project Manager at Adventiel, and Christian German, Software Architect at Adventiel or Tristant Delmas, CEO at Hime, who have witnessed firsthand the impact of my contributions to transformative projects.
 
 Ready to embark on a journey of innovation and success? Let's collaborate and turn your visions into reality!
+
+
+
+- 🔭 I’m currently working on [OTWLD](https://otwld.com/)
+
+- 👯 I’m looking to collaborate on **any freelance project**
+
+- 👨‍💻 All of my projects are available at [https://otwld.com/members/ntrehout](https://otwld.com/members/ntrehout)
+
+- 📝 I regularly write articles on [https://blog.otwld.com/blog/author/ntrehout/](https://blog.otwld.com/blog/author/ntrehout/)
+
+- 📫 How to reach me **ntrehout@otwld.com**
+
+- 📄 Know about my experiences [https://otwld.com/members/ntrehout](https://otwld.com/members/ntrehout)
 
 
 
