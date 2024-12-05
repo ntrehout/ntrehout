@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://otwld.com/members/ntrehout](https://otwld.com/members/ntrehout)
 
+
+
 🚀 Empower Your Projects with a Full Stack Maestro!
 
 Bonjour! I'm a Full Stack developer working remotely from Indonesia, fueled by nearly 5 years of hands-on experience in the dynamic realm of web and mobile development.
@@ -36,6 +38,8 @@ References:
 🌟 Testimonials Speak Louder: Don't just take my word for it! Hear from Vincent Pinson, Project Manager at Adventiel, and Christian German, Software Architect at Adventiel or Tristant Delmas, CEO at Hime, who have witnessed firsthand the impact of my contributions to transformative projects.
 
 Ready to embark on a journey of innovation and success? Let's collaborate and turn your visions into reality!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
